@@ -71,7 +71,7 @@ Why Some Data Elements Are Not Used:
 Certain elements like difficulty_level are present but not utilized in our analysis because they are set to null in the data. Without meaningful values, these fields can't contribute to our analysis and recommendations.
 
 PS:
-If you do not want to use the notebook version, just change the extension from 'ipynb' to 'py' and you are good to go.
+If you do not want to use the notebook version, just change the extension from 'ipynb' to 'py' and you are good to go. Download the mp4 for the detailed code explanation along with the outputs.
 
 Conclusion
 This solution provides a comprehensive analysis of quiz performance, generates personalized insights, and offers actionable recommendations to help students improve their preparation effectively.
