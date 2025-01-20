@@ -17,8 +17,8 @@ json
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/quiz-performance-analyzer.git
-cd quiz-performance-analyzer
+git clone https://github.com/RURD9915/Quiz_analyser.git
+cd Quiz_analyser
 
 
 Install the required libraries:
