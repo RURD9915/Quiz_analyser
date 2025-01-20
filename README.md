@@ -9,7 +9,6 @@ Python 3.x
 Required Python libraries:
 requests
 pandas
-numpy
 matplotlib
 seaborn
 json
